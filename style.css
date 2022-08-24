@@ -1,0 +1,24 @@
+table {
+    width: 640px;
+    height: 640px;
+}
+td {
+  width: 30px;  
+  height: 40px;
+  background-color: aqua;
+}
+.red{
+  background-color: red
+
+}
+.green{
+  background-color: green
+}
+
+.gray{
+  background-color: gray
+}
+
+.fgh{
+  background-color: red;
+}
